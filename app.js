@@ -1,5 +1,5 @@
 // 5-dars Vazifa  Functions
-
+alert("Masalar yechib comment qilib qoyilgan");
 //  1-masala
 
 // function calculate(a, b) {
